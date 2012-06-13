@@ -8,7 +8,7 @@
     </Email>
     <Name></Name>
   </Author>
-  <Description>Embracing the idea that HTML5 applications are becoming more and more prevalent, whether inside or outside the browser, Microsoft has put a lot of effort into making Internet Explorer more standards-compliant than ever, improving the Internet Explorer Developer Tools, and boosting the browser’s performance. This lab focuses on some of the tooling and feature improvements introduced in Internet Explorer 10.
+  <Description>Embracing the idea that HTML5 applications are becoming more and more prevalent, whether inside or outside the browser, Microsoft has put a lot of effort into making Internet Explorer more standards-compliant than ever, improving the Internet Explorer Developer Tools, and boosting the browser's performance. This lab focuses on some of the tooling and feature improvements introduced in Internet Explorer 10.
   </Description>
   <Document ConversionType="Html">.\HOL.md</Document>
   <Title>Compatibility, Developer Tools and Performance</Title>
